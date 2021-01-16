@@ -1,1 +1,2 @@
-fonts/**                                  linguist-documentation=false
+fonts/** linguist-documentation=false
+css/** linguist-documentation=false
